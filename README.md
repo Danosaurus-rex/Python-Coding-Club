@@ -11,6 +11,8 @@ The Coding Club consists of ~8 parts (~7 at the present) covering the following:
 - Part 5: Classes
 - Part 6: External libraries and modules
 - Part 7: Scientific packge overview (I) numpy and matplotlib, (II) pandas and scipy
+- ... 
+- ...
 
 There could be scope to further explaining other packages such as OpenCV, scikit-learn or other image analysis libraries in the future.
 
