@@ -1,6 +1,6 @@
 # Python Coding Club
 
-This repository hosts some introductory notebooks into how to code in python. These notebooks are aimed at utilising python primarily for **scientific data analysis** and are **targeted at people with little to no experience in programming**.
+This repository hosts some introductory notebooks into how to code in Python. These notebooks are aimed at utilising python primarily for **scientific data analysis** and are **targeted at people with little to no experience in programming**. If you are **completely new** to Python or Jupyter notebooks, I suggest reading through **Part 1** as a **.pdf** file (also uploaded to the repo).
 
 The Coding Club consists of ~8 parts (~7 at the present) covering the following:
 
